@@ -6,3 +6,4 @@ requests
 matplotlib
 ipywidgets
 ipyleaflet
+ipykernel
